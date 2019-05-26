@@ -1,7 +1,10 @@
-#include <iostream>
+#include "ConsumerProducerCondvar.h"
 
 int main()
 {
-	std::cout << "hello sandbox!" << std::endl;
+	//ConsumerProducerCondvar c;
+	//c.perform();
+
+
 	return 0;
 }
